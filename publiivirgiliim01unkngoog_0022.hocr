@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiivirgiliim01unkngoog/publiivirgiliim01unkngoog_0022.png"; bbox 0 0 1917 2942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 335 342 1364 390">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 335 342 1364 390">
+     <span class='ocr_line' id='line_1_1' title="bbox 335 342 1364 390; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 335 350 383 390; x_wconf 67' lang='lat'>⁴8</span> <span class='ocrx_word' id='word_1_2' title='bbox 595 351 647 388; x_wconf 90' lang='grc' dir='ltr'>Ρ.</span> <span class='ocrx_word' id='word_1_3' title='bbox 678 347 912 389; x_wconf 84' lang='lat' dir='ltr'>VIRGILII</span> <span class='ocrx_word' id='word_1_4' title='bbox 941 344 1189 385; x_wconf 82' lang='lat' dir='ltr'>MARONIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1218 342 1364 382; x_wconf 77' lang='lat' dir='ltr'>VITA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 273 424 1645 642">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 273 424 1645 642">
+     <span class='ocr_line' id='line_1_2' title="bbox 332 424 1627 492; baseline -0.012 -8"><span class='ocrx_word' id='word_1_6' title='bbox 332 438 399 484; x_wconf 86' lang='lat' dir='ltr'>bii</span> <span class='ocrx_word' id='word_1_7' title='bbox 438 437 598 485; x_wconf 83' lang='lat' dir='ltr'><strong>verbis</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 636 436 771 489; x_wconf 82' lang='lat' dir='ltr'><strong>utar,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 805 433 928 480; x_wconf 75' lang='lat' dir='ltr'>tanti</span> <span class='ocrx_word' id='word_1_10' title='bbox 962 432 1115 492; x_wconf 74' lang='lat' dir='ltr'>poetae</span> <span class='ocrx_word' id='word_1_11' title='bbox 1148 429 1327 490; x_wconf 79' lang='lat' dir='ltr'>gloria,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1369 424 1627 472; x_wconf 60' lang='lat' dir='ltr'><strong>ut⁴=nu11ius</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 273 503 1645 585; baseline -0.013 -21"><span class='ocrx_word' id='word_1_13' title='bbox 273 580 276 585; x_wconf 29' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_14' title='bbox 331 516 554 563; x_wconf 82' lang='lat' dir='ltr'>laudibus</span> <span class='ocrx_word' id='word_1_15' title='bbox 588 514 793 567; x_wconf 81' lang='lat' dir='ltr'><strong>crescat,</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 835 511 1012 558; x_wconf 85' lang='lat' dir='ltr'><strong>nullius</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1045 506 1400 569; x_wconf 79' lang='lat' dir='ltr'>vituperatione</span> <span class='ocrx_word' id='word_1_18' title='bbox 1435 503 1645 549; x_wconf 77' lang='lat' dir='ltr'>minua-¹</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 332 596 429 642; baseline 0 -1"><span class='ocrx_word' id='word_1_19' title='bbox 332 596 429 642; x_wconf 78' lang='lat' dir='ltr'><strong>tur.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 912 1433 1065 1486">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 912 1433 1065 1486">
+     <span class='ocr_line' id='line_1_5' title="bbox 912 1433 1065 1486; baseline 0.007 -2"><span class='ocrx_word' id='word_1_20' title='bbox 912 1433 1065 1486; x_wconf 45' lang='lat' dir='ltr'>&amp;Q</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

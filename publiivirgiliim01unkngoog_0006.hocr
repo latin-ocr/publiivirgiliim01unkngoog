@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiivirgiliim01unkngoog/publiivirgiliim01unkngoog_0006.png"; bbox 0 0 1917 2942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 872 2493 1592 2530">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 872 2493 1592 2530">
+     <span class='ocr_line' id='line_1_1' title="bbox 872 2493 1592 2530; baseline -0.007 -1"><span class='ocrx_word' id='word_1_1' title='bbox 872 2498 895 2529; x_wconf 81' lang='grc' dir='ltr'>Ρ</span> <span class='ocrx_word' id='word_1_2' title='bbox 908 2497 1077 2530; x_wconf 64' lang='lat' dir='ltr'><strong>xfflfflffi·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1093 2510 1139 2516; x_wconf 77' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 1153 2496 1195 2527; x_wconf 77' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1210 2495 1375 2527; x_wconf 70' lang='lat' dir='ltr'><strong>m&#39;EuAT</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1390 2494 1444 2525; x_wconf 80' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 1457 2493 1592 2525; x_wconf 72' lang='lat' dir='ltr'>COMP-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
